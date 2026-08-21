@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-08-21T02:56:50.375046+00:00",
-  "elapsed": 0.825578,
+  "created_at": "2026-08-21T04:30:41.048662+00:00",
+  "elapsed": 0.69333,
   "encoding": "UTF-8",
-  "expires": "2026-08-21T03:56:50.375009+00:00",
+  "expires": "2026-08-21T05:30:41.048632+00:00",
   "headers": {
     "Access-Control-Allow-Methods": "GET",
     "Access-Control-Allow-Origin": "http://localhost",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "en-US",
     "Content-Type": "application/json;charset=UTF-8",
-    "Date": "Fri, 21 Aug 2026 02:56:50 GMT",
+    "Date": "Fri, 21 Aug 2026 04:30:40 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
     "X-API-Version": "v4",
