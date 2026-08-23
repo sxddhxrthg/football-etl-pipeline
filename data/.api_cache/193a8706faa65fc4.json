@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-08-23T14:16:16.333920+00:00",
-  "elapsed": 0.476068,
+  "created_at": "2026-08-23T16:16:43.444954+00:00",
+  "elapsed": 0.399817,
   "encoding": "UTF-8",
-  "expires": "2026-08-23T15:16:16.333893+00:00",
+  "expires": "2026-08-23T17:16:43.444919+00:00",
   "headers": {
     "Access-Control-Allow-Methods": "GET",
     "Access-Control-Allow-Origin": "http://localhost",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "en-US",
     "Content-Type": "application/json;charset=UTF-8",
-    "Date": "Sun, 23 Aug 2026 14:16:16 GMT",
+    "Date": "Sun, 23 Aug 2026 16:16:43 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
     "X-API-Version": "v4",
@@ -34,7 +34,7 @@
   "status_code": 200,
   "url": "https://api.football-data.org/v4/competitions/PL/scorers?limit=20",
   "_decoded_content": {
-    "count": 17,
+    "count": 20,
     "filters": {
       "season": "2026",
       "limit": 20
@@ -552,6 +552,68 @@
       },
       {
         "player": {
+          "id": 118489,
+          "name": "Marc Gu\u00e9hi",
+          "firstName": "Marc",
+          "lastName": "Gu\u00e9hi",
+          "dateOfBirth": "2000-07-13",
+          "nationality": "England",
+          "section": "Defence",
+          "position": null,
+          "shirtNumber": null,
+          "lastUpdated": "2026-06-01T11:16:29Z"
+        },
+        "team": {
+          "id": 65,
+          "name": "Manchester City FC",
+          "shortName": "Man City",
+          "tla": "MCI",
+          "crest": "https://crests.football-data.org/65.png",
+          "address": "SportCity Manchester M11 3FF",
+          "website": "https://www.mancity.com",
+          "founded": 1880,
+          "clubColors": "Sky Blue / White",
+          "venue": "Etihad Stadium",
+          "lastUpdated": "2022-02-10T19:48:37Z"
+        },
+        "playedMatches": 1,
+        "goals": 1,
+        "assists": null,
+        "penalties": null
+      },
+      {
+        "player": {
+          "id": 122266,
+          "name": "Jo\u0161ko Gvardiol",
+          "firstName": "Jo\u0161ko",
+          "lastName": "Gvardiol",
+          "dateOfBirth": "2002-01-23",
+          "nationality": "Croatia",
+          "section": "Defence",
+          "position": null,
+          "shirtNumber": null,
+          "lastUpdated": "2026-06-01T11:16:29Z"
+        },
+        "team": {
+          "id": 65,
+          "name": "Manchester City FC",
+          "shortName": "Man City",
+          "tla": "MCI",
+          "crest": "https://crests.football-data.org/65.png",
+          "address": "SportCity Manchester M11 3FF",
+          "website": "https://www.mancity.com",
+          "founded": 1880,
+          "clubColors": "Sky Blue / White",
+          "venue": "Etihad Stadium",
+          "lastUpdated": "2022-02-10T19:48:37Z"
+        },
+        "playedMatches": 1,
+        "goals": 1,
+        "assists": null,
+        "penalties": null
+      },
+      {
+        "player": {
           "id": 142075,
           "name": "Maxim De Cuyper",
           "firstName": "Maxim",
@@ -575,6 +637,37 @@
           "clubColors": "Blue / White",
           "venue": "The American Express Community Stadium",
           "lastUpdated": "2024-07-29T17:18:23Z"
+        },
+        "playedMatches": 1,
+        "goals": 1,
+        "assists": null,
+        "penalties": null
+      },
+      {
+        "player": {
+          "id": 166376,
+          "name": "Anthony Elanga",
+          "firstName": "Anthony",
+          "lastName": "Elanga",
+          "dateOfBirth": "2002-04-27",
+          "nationality": "Sweden",
+          "section": "Offence",
+          "position": null,
+          "shirtNumber": null,
+          "lastUpdated": "2026-06-01T11:16:31Z"
+        },
+        "team": {
+          "id": 67,
+          "name": "Newcastle United FC",
+          "shortName": "Newcastle",
+          "tla": "NEW",
+          "crest": "https://crests.football-data.org/67.png",
+          "address": "Sports Direct Arena Newcastle upon Tyne NE1 4ST",
+          "website": "http://www.nufc.co.uk",
+          "founded": 1881,
+          "clubColors": "Black / White",
+          "venue": "St. James' Park",
+          "lastUpdated": "2022-09-28T18:51:07Z"
         },
         "playedMatches": 1,
         "goals": 1,
