@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-08-30T14:36:26.977577+00:00",
-  "elapsed": 0.367695,
+  "created_at": "2026-08-30T18:58:23.123488+00:00",
+  "elapsed": 0.383662,
   "encoding": "UTF-8",
-  "expires": "2026-08-30T15:36:26.977547+00:00",
+  "expires": "2026-08-30T19:58:23.123459+00:00",
   "headers": {
     "Access-Control-Allow-Methods": "GET",
     "Access-Control-Allow-Origin": "http://localhost",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "en-US",
     "Content-Type": "application/json;charset=UTF-8",
-    "Date": "Sun, 30 Aug 2026 14:36:26 GMT",
+    "Date": "Sun, 30 Aug 2026 18:58:23 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
     "X-API-Version": "v4",
@@ -54,6 +54,37 @@
       "winner": null
     },
     "scorers": [
+      {
+        "player": {
+          "id": 3257,
+          "name": "Bruno Fernandes",
+          "firstName": "",
+          "lastName": "Bruno Fernandes",
+          "dateOfBirth": "1994-09-08",
+          "nationality": "Portugal",
+          "section": "Midfield",
+          "position": null,
+          "shirtNumber": null,
+          "lastUpdated": "2026-06-01T11:16:29Z"
+        },
+        "team": {
+          "id": 66,
+          "name": "Manchester United FC",
+          "shortName": "Man United",
+          "tla": "MUN",
+          "crest": "https://crests.football-data.org/66.png",
+          "address": "Sir Matt Busby Way Manchester M16 0RA",
+          "website": "http://www.manutd.com",
+          "founded": 1878,
+          "clubColors": "Red / White",
+          "venue": "Old Trafford",
+          "lastUpdated": "2022-02-10T19:27:46Z"
+        },
+        "playedMatches": 2,
+        "goals": 3,
+        "assists": 1,
+        "penalties": 1
+      },
       {
         "player": {
           "id": 190851,
@@ -421,7 +452,7 @@
           "venue": "Portman Road Stadium",
           "lastUpdated": "2022-10-28T10:50:05Z"
         },
-        "playedMatches": 1,
+        "playedMatches": 2,
         "goals": 1,
         "assists": null,
         "penalties": null
@@ -483,7 +514,7 @@
           "venue": "Portman Road Stadium",
           "lastUpdated": "2022-10-28T10:50:05Z"
         },
-        "playedMatches": 1,
+        "playedMatches": 2,
         "goals": 1,
         "assists": null,
         "penalties": null
@@ -624,37 +655,6 @@
           "position": null,
           "shirtNumber": null,
           "lastUpdated": "2026-07-15T09:25:42Z"
-        },
-        "team": {
-          "id": 402,
-          "name": "Brentford FC",
-          "shortName": "Brentford",
-          "tla": "BRE",
-          "crest": "https://crests.football-data.org/402.png",
-          "address": "Braemar Road Brentford TW8 0NT",
-          "website": "http://www.brentfordfc.co.uk",
-          "founded": 1889,
-          "clubColors": "Red / White / Black",
-          "venue": "Griffin Park",
-          "lastUpdated": "2022-04-03T16:24:00Z"
-        },
-        "playedMatches": 2,
-        "goals": 1,
-        "assists": null,
-        "penalties": null
-      },
-      {
-        "player": {
-          "id": 204348,
-          "name": "Michael Kayode",
-          "firstName": "Michael",
-          "lastName": "Kayode",
-          "dateOfBirth": "2004-07-10",
-          "nationality": "Italy",
-          "section": "Defence",
-          "position": null,
-          "shirtNumber": null,
-          "lastUpdated": "2026-07-15T09:25:43Z"
         },
         "team": {
           "id": 402,
