@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-08-31T18:33:59.655899+00:00",
-  "elapsed": 0.527568,
+  "created_at": "2026-08-31T23:32:43.879242+00:00",
+  "elapsed": 0.503536,
   "encoding": "UTF-8",
-  "expires": "2026-08-31T19:33:59.655864+00:00",
+  "expires": "2026-09-01T00:32:43.879206+00:00",
   "headers": {
     "Access-Control-Allow-Methods": "GET",
     "Access-Control-Allow-Origin": "http://localhost",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "en-US",
     "Content-Type": "application/json;charset=UTF-8",
-    "Date": "Mon, 31 Aug 2026 18:33:59 GMT",
+    "Date": "Mon, 31 Aug 2026 23:32:43 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
     "X-API-Version": "v4",
@@ -85,6 +85,25 @@
           {
             "position": 2,
             "team": {
+              "id": 57,
+              "name": "Arsenal FC",
+              "shortName": "Arsenal",
+              "tla": "ARS",
+              "crest": "https://crests.football-data.org/57.png"
+            },
+            "playedGames": 2,
+            "form": null,
+            "won": 2,
+            "draw": 0,
+            "lost": 0,
+            "points": 6,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "goalDifference": 4
+          },
+          {
+            "position": 3,
+            "team": {
               "id": 322,
               "name": "Hull City AFC",
               "shortName": "Hull City",
@@ -102,7 +121,7 @@
             "goalDifference": 3
           },
           {
-            "position": 3,
+            "position": 4,
             "team": {
               "id": 61,
               "name": "Chelsea FC",
@@ -121,7 +140,7 @@
             "goalDifference": 2
           },
           {
-            "position": 4,
+            "position": 5,
             "team": {
               "id": 402,
               "name": "Brentford FC",
@@ -140,7 +159,7 @@
             "goalDifference": 3
           },
           {
-            "position": 5,
+            "position": 6,
             "team": {
               "id": 67,
               "name": "Newcastle United FC",
@@ -159,7 +178,7 @@
             "goalDifference": 2
           },
           {
-            "position": 6,
+            "position": 7,
             "team": {
               "id": 62,
               "name": "Everton FC",
@@ -178,7 +197,7 @@
             "goalDifference": 2
           },
           {
-            "position": 7,
+            "position": 8,
             "team": {
               "id": 341,
               "name": "Leeds United FC",
@@ -197,7 +216,7 @@
             "goalDifference": 1
           },
           {
-            "position": 8,
+            "position": 9,
             "team": {
               "id": 397,
               "name": "Brighton & Hove Albion FC",
@@ -213,25 +232,6 @@
             "points": 3,
             "goalsFor": 7,
             "goalsAgainst": 4,
-            "goalDifference": 3
-          },
-          {
-            "position": 9,
-            "team": {
-              "id": 57,
-              "name": "Arsenal FC",
-              "shortName": "Arsenal",
-              "tla": "ARS",
-              "crest": "https://crests.football-data.org/57.png"
-            },
-            "playedGames": 1,
-            "form": null,
-            "won": 1,
-            "draw": 0,
-            "lost": 0,
-            "points": 3,
-            "goalsFor": 3,
-            "goalsAgainst": 0,
             "goalDifference": 3
           },
           {
@@ -370,25 +370,6 @@
           {
             "position": 17,
             "team": {
-              "id": 58,
-              "name": "Aston Villa FC",
-              "shortName": "Aston Villa",
-              "tla": "AVL",
-              "crest": "https://crests.football-data.org/58.png"
-            },
-            "playedGames": 1,
-            "form": null,
-            "won": 0,
-            "draw": 0,
-            "lost": 1,
-            "points": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 4,
-            "goalDifference": -4
-          },
-          {
-            "position": 17,
-            "team": {
               "id": 1076,
               "name": "Coventry City FC",
               "shortName": "Coventry City",
@@ -406,7 +387,7 @@
             "goalDifference": -4
           },
           {
-            "position": 19,
+            "position": 18,
             "team": {
               "id": 354,
               "name": "Crystal Palace FC",
@@ -425,7 +406,26 @@
             "goalDifference": -5
           },
           {
-            "position": 20,
+            "position": 19,
+            "team": {
+              "id": 58,
+              "name": "Aston Villa FC",
+              "shortName": "Aston Villa",
+              "tla": "AVL",
+              "crest": "https://crests.football-data.org/58.png"
+            },
+            "playedGames": 2,
+            "form": null,
+            "won": 0,
+            "draw": 0,
+            "lost": 2,
+            "points": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 5,
+            "goalDifference": -5
+          },
+          {
+            "position": 19,
             "team": {
               "id": 73,
               "name": "Tottenham Hotspur FC",
