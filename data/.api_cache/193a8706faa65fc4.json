@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-09-05T11:41:15.480942+00:00",
-  "elapsed": 0.369541,
+  "created_at": "2026-09-05T14:21:30.661915+00:00",
+  "elapsed": 0.355207,
   "encoding": "UTF-8",
-  "expires": "2026-09-05T12:41:15.480909+00:00",
+  "expires": "2026-09-05T15:21:30.661883+00:00",
   "headers": {
     "Access-Control-Allow-Methods": "GET",
     "Access-Control-Allow-Origin": "http://localhost",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "en-US",
     "Content-Type": "application/json;charset=UTF-8",
-    "Date": "Sat, 05 Sep 2026 11:41:15 GMT",
+    "Date": "Sat, 05 Sep 2026 14:21:30 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
     "X-API-Version": "v4",
@@ -273,6 +273,37 @@
       },
       {
         "player": {
+          "id": 246418,
+          "name": "Joshua King",
+          "firstName": "Joshua",
+          "lastName": "King",
+          "dateOfBirth": "2007-01-03",
+          "nationality": "England",
+          "section": "Midfield",
+          "position": null,
+          "shirtNumber": null,
+          "lastUpdated": "2026-07-15T09:25:43Z"
+        },
+        "team": {
+          "id": 63,
+          "name": "Fulham FC",
+          "shortName": "Fulham",
+          "tla": "FUL",
+          "crest": "https://crests.football-data.org/63.png",
+          "address": "Craven Cottage, Stevenage Road London SW6 6HH",
+          "website": "http://www.fulhamfc.com",
+          "founded": 1879,
+          "clubColors": "White / Black",
+          "venue": "Craven Cottage",
+          "lastUpdated": "2024-07-29T17:16:11Z"
+        },
+        "playedMatches": 3,
+        "goals": 2,
+        "assists": null,
+        "penalties": null
+      },
+      {
+        "player": {
           "id": 144892,
           "name": "Cole Palmer",
           "firstName": "Cole",
@@ -328,7 +359,7 @@
           "venue": "Etihad Stadium",
           "lastUpdated": "2022-02-10T19:48:37Z"
         },
-        "playedMatches": 2,
+        "playedMatches": 3,
         "goals": 2,
         "assists": null,
         "penalties": null
@@ -359,7 +390,7 @@
           "venue": "Etihad Stadium",
           "lastUpdated": "2022-02-10T19:48:37Z"
         },
-        "playedMatches": 2,
+        "playedMatches": 3,
         "goals": 2,
         "assists": 2,
         "penalties": null
@@ -545,7 +576,7 @@
           "venue": "Stadium of Light",
           "lastUpdated": "2022-02-19T09:12:07Z"
         },
-        "playedMatches": 2,
+        "playedMatches": 3,
         "goals": 1,
         "assists": null,
         "penalties": null
@@ -607,7 +638,7 @@
           "venue": "Elland Road",
           "lastUpdated": "2022-02-10T19:27:14Z"
         },
-        "playedMatches": 2,
+        "playedMatches": 3,
         "goals": 1,
         "assists": null,
         "penalties": null
@@ -621,37 +652,6 @@
           "dateOfBirth": "1998-09-06",
           "nationality": "England",
           "section": "Midfield",
-          "position": null,
-          "shirtNumber": null,
-          "lastUpdated": "2026-07-15T09:25:44Z"
-        },
-        "team": {
-          "id": 62,
-          "name": "Everton FC",
-          "shortName": "Everton",
-          "tla": "EVE",
-          "crest": "https://crests.football-data.org/62.png",
-          "address": "Goodison Park Liverpool L4 4EL",
-          "website": "http://www.evertonfc.com",
-          "founded": 1878,
-          "clubColors": "Blue / White",
-          "venue": "Goodison Park",
-          "lastUpdated": "2022-02-10T19:47:42Z"
-        },
-        "playedMatches": 2,
-        "goals": 1,
-        "assists": null,
-        "penalties": null
-      },
-      {
-        "player": {
-          "id": 171995,
-          "name": "Thierno Barry",
-          "firstName": "Thierno",
-          "lastName": "Barry",
-          "dateOfBirth": "2000-01-12",
-          "nationality": "France",
-          "section": "Offence",
           "position": null,
           "shirtNumber": null,
           "lastUpdated": "2026-07-15T09:25:44Z"
