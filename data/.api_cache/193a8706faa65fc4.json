@@ -1,23 +1,24 @@
 {
-  "created_at": "2026-09-05T14:21:30.661915+00:00",
-  "elapsed": 0.355207,
+  "created_at": "2026-09-05T17:50:38.906626+00:00",
+  "elapsed": 0.114381,
   "encoding": "UTF-8",
-  "expires": "2026-09-05T15:21:30.661883+00:00",
+  "expires": "2026-09-05T18:50:38.906593+00:00",
   "headers": {
     "Access-Control-Allow-Methods": "GET",
     "Access-Control-Allow-Origin": "http://localhost",
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
-    "Content-Language": "en-US",
+    "Content-Language": "und",
     "Content-Type": "application/json;charset=UTF-8",
-    "Date": "Sat, 05 Sep 2026 14:21:30 GMT",
+    "Date": "Sat, 05 Sep 2026 17:50:38 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
     "X-API-Version": "v4",
-    "X-Authenticated-Client": "Siddharth",
-    "X-Cache-Status": "BYPASS",
+    "X-Authenticated-Client": "dawit mengesha beriso",
+    "X-Cache-Status": "HIT",
     "X-RequestCounter-Reset": "60",
-    "x-requests-available-minute": "9"
+    "x-request_counter-reset": "59",
+    "x-requests-available-minute": "8"
   },
   "reason": "",
   "request": {
@@ -54,6 +55,37 @@
       "winner": null
     },
     "scorers": [
+      {
+        "player": {
+          "id": 38101,
+          "name": "Erling Haaland",
+          "firstName": "Erling",
+          "lastName": "Haaland",
+          "dateOfBirth": "2000-07-21",
+          "nationality": "Norway",
+          "section": "Offence",
+          "position": null,
+          "shirtNumber": null,
+          "lastUpdated": "2026-06-01T11:16:30Z"
+        },
+        "team": {
+          "id": 65,
+          "name": "Manchester City FC",
+          "shortName": "Man City",
+          "tla": "MCI",
+          "crest": "https://crests.football-data.org/65.png",
+          "address": "SportCity Manchester M11 3FF",
+          "website": "https://www.mancity.com",
+          "founded": 1880,
+          "clubColors": "Sky Blue / White",
+          "venue": "Etihad Stadium",
+          "lastUpdated": "2022-02-10T19:48:37Z"
+        },
+        "playedMatches": 3,
+        "goals": 3,
+        "assists": null,
+        "penalties": null
+      },
       {
         "player": {
           "id": 6486,
@@ -143,6 +175,37 @@
           "lastUpdated": "2022-02-10T19:48:56Z"
         },
         "playedMatches": 2,
+        "goals": 2,
+        "assists": null,
+        "penalties": null
+      },
+      {
+        "player": {
+          "id": 10000,
+          "name": "Vitaly Janelt",
+          "firstName": "Vitaly",
+          "lastName": "Janelt",
+          "dateOfBirth": "1998-05-10",
+          "nationality": "Germany",
+          "section": "Midfield",
+          "position": null,
+          "shirtNumber": null,
+          "lastUpdated": "2026-07-15T09:25:42Z"
+        },
+        "team": {
+          "id": 402,
+          "name": "Brentford FC",
+          "shortName": "Brentford",
+          "tla": "BRE",
+          "crest": "https://crests.football-data.org/402.png",
+          "address": "Braemar Road Brentford TW8 0NT",
+          "website": "http://www.brentfordfc.co.uk",
+          "founded": 1889,
+          "clubColors": "Red / White / Black",
+          "venue": "Griffin Park",
+          "lastUpdated": "2022-04-03T16:24:00Z"
+        },
+        "playedMatches": 3,
         "goals": 2,
         "assists": null,
         "penalties": null
@@ -335,37 +398,6 @@
       },
       {
         "player": {
-          "id": 38101,
-          "name": "Erling Haaland",
-          "firstName": "Erling",
-          "lastName": "Haaland",
-          "dateOfBirth": "2000-07-21",
-          "nationality": "Norway",
-          "section": "Offence",
-          "position": null,
-          "shirtNumber": null,
-          "lastUpdated": "2026-06-01T11:16:30Z"
-        },
-        "team": {
-          "id": 65,
-          "name": "Manchester City FC",
-          "shortName": "Man City",
-          "tla": "MCI",
-          "crest": "https://crests.football-data.org/65.png",
-          "address": "SportCity Manchester M11 3FF",
-          "website": "https://www.mancity.com",
-          "founded": 1880,
-          "clubColors": "Sky Blue / White",
-          "venue": "Etihad Stadium",
-          "lastUpdated": "2022-02-10T19:48:37Z"
-        },
-        "playedMatches": 3,
-        "goals": 2,
-        "assists": null,
-        "penalties": null
-      },
-      {
-        "player": {
           "id": 133242,
           "name": "Rayan Cherki",
           "firstName": "Rayan",
@@ -393,6 +425,37 @@
         "playedMatches": 3,
         "goals": 2,
         "assists": 2,
+        "penalties": null
+      },
+      {
+        "player": {
+          "id": 137068,
+          "name": "Tyrick Mitchell",
+          "firstName": "Tyrick",
+          "lastName": "Mitchell",
+          "dateOfBirth": "1999-09-01",
+          "nationality": "England",
+          "section": "Defence",
+          "position": null,
+          "shirtNumber": null,
+          "lastUpdated": "2026-07-15T09:25:44Z"
+        },
+        "team": {
+          "id": 354,
+          "name": "Crystal Palace FC",
+          "shortName": "Crystal Palace",
+          "tla": "CRY",
+          "crest": "https://crests.football-data.org/354.png",
+          "address": "Whitehorse Lane London SE25 6PU",
+          "website": "http://www.cpfc.co.uk",
+          "founded": 1905,
+          "clubColors": "Red / Blue",
+          "venue": "Selhurst Park",
+          "lastUpdated": "2022-02-10T19:22:36Z"
+        },
+        "playedMatches": 3,
+        "goals": 2,
+        "assists": null,
         "penalties": null
       },
       {
@@ -483,7 +546,7 @@
           "venue": "Kingston Communications Stadium",
           "lastUpdated": "2022-02-22T14:19:00Z"
         },
-        "playedMatches": 2,
+        "playedMatches": 3,
         "goals": 1,
         "assists": null,
         "penalties": null
@@ -514,7 +577,7 @@
           "venue": "Kingston Communications Stadium",
           "lastUpdated": "2022-02-22T14:19:00Z"
         },
-        "playedMatches": 2,
+        "playedMatches": 3,
         "goals": 1,
         "assists": null,
         "penalties": null
@@ -608,68 +671,6 @@
           "lastUpdated": "2022-10-28T10:50:05Z"
         },
         "playedMatches": 3,
-        "goals": 1,
-        "assists": null,
-        "penalties": null
-      },
-      {
-        "player": {
-          "id": 65843,
-          "name": "Anton Stach",
-          "firstName": "Anton",
-          "lastName": "Stach",
-          "dateOfBirth": "1998-11-15",
-          "nationality": "Germany",
-          "section": "Midfield",
-          "position": null,
-          "shirtNumber": null,
-          "lastUpdated": "2026-07-15T09:25:44Z"
-        },
-        "team": {
-          "id": 341,
-          "name": "Leeds United FC",
-          "shortName": "Leeds United",
-          "tla": "LEE",
-          "crest": "https://crests.football-data.org/341.png",
-          "address": "Elland Road Leeds LS11 0ES",
-          "website": "http://www.leedsunited.com",
-          "founded": 1904,
-          "clubColors": "White / Blue",
-          "venue": "Elland Road",
-          "lastUpdated": "2022-02-10T19:27:14Z"
-        },
-        "playedMatches": 3,
-        "goals": 1,
-        "assists": null,
-        "penalties": null
-      },
-      {
-        "player": {
-          "id": 140194,
-          "name": "Kiernan Dewsbury Hall",
-          "firstName": "Kiernan",
-          "lastName": "Dewsbury-Hall",
-          "dateOfBirth": "1998-09-06",
-          "nationality": "England",
-          "section": "Midfield",
-          "position": null,
-          "shirtNumber": null,
-          "lastUpdated": "2026-07-15T09:25:44Z"
-        },
-        "team": {
-          "id": 62,
-          "name": "Everton FC",
-          "shortName": "Everton",
-          "tla": "EVE",
-          "crest": "https://crests.football-data.org/62.png",
-          "address": "Goodison Park Liverpool L4 4EL",
-          "website": "http://www.evertonfc.com",
-          "founded": 1878,
-          "clubColors": "Blue / White",
-          "venue": "Goodison Park",
-          "lastUpdated": "2022-02-10T19:47:42Z"
-        },
-        "playedMatches": 2,
         "goals": 1,
         "assists": null,
         "penalties": null
