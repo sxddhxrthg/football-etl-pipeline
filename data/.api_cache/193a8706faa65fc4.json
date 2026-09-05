@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-09-05T07:58:15.100637+00:00",
-  "elapsed": 0.408914,
+  "created_at": "2026-09-05T11:41:15.480942+00:00",
+  "elapsed": 0.369541,
   "encoding": "UTF-8",
-  "expires": "2026-09-05T08:58:15.100607+00:00",
+  "expires": "2026-09-05T12:41:15.480909+00:00",
   "headers": {
     "Access-Control-Allow-Methods": "GET",
     "Access-Control-Allow-Origin": "http://localhost",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "en-US",
     "Content-Type": "application/json;charset=UTF-8",
-    "Date": "Sat, 05 Sep 2026 07:58:15 GMT",
+    "Date": "Sat, 05 Sep 2026 11:41:15 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
     "X-API-Version": "v4",
@@ -149,6 +149,37 @@
       },
       {
         "player": {
+          "id": 6396,
+          "name": "Marcus Tavernier",
+          "firstName": "Marcus",
+          "lastName": "Tavernier",
+          "dateOfBirth": "1999-03-22",
+          "nationality": "England",
+          "section": "Midfield",
+          "position": null,
+          "shirtNumber": null,
+          "lastUpdated": "2026-07-15T09:25:43Z"
+        },
+        "team": {
+          "id": 1044,
+          "name": "AFC Bournemouth",
+          "shortName": "Bournemouth",
+          "tla": "BOU",
+          "crest": "https://crests.football-data.org/bournemouth.png",
+          "address": "Dean Court, Kings Park Bournemouth BH7 7AF",
+          "website": "http://www.afcb.co.uk",
+          "founded": 1890,
+          "clubColors": "Red / Black",
+          "venue": "Vitality Stadium",
+          "lastUpdated": "2024-08-29T08:54:34Z"
+        },
+        "playedMatches": 3,
+        "goals": 2,
+        "assists": null,
+        "penalties": null
+      },
+      {
+        "player": {
           "id": 190851,
           "name": "Jack Hinshelwood",
           "firstName": "Jack",
@@ -204,7 +235,7 @@
           "venue": "St. James' Park",
           "lastUpdated": "2022-09-28T18:51:07Z"
         },
-        "playedMatches": 2,
+        "playedMatches": 3,
         "goals": 2,
         "assists": null,
         "penalties": null
@@ -641,37 +672,6 @@
         "playedMatches": 2,
         "goals": 1,
         "assists": null,
-        "penalties": null
-      },
-      {
-        "player": {
-          "id": 101910,
-          "name": "Keane Lewis-Potter",
-          "firstName": "Keane",
-          "lastName": "Lewis-Potter",
-          "dateOfBirth": "2001-02-22",
-          "nationality": "England",
-          "section": "Midfield",
-          "position": null,
-          "shirtNumber": null,
-          "lastUpdated": "2026-07-15T09:25:43Z"
-        },
-        "team": {
-          "id": 402,
-          "name": "Brentford FC",
-          "shortName": "Brentford",
-          "tla": "BRE",
-          "crest": "https://crests.football-data.org/402.png",
-          "address": "Braemar Road Brentford TW8 0NT",
-          "website": "http://www.brentfordfc.co.uk",
-          "founded": 1889,
-          "clubColors": "Red / White / Black",
-          "venue": "Griffin Park",
-          "lastUpdated": "2022-04-03T16:24:00Z"
-        },
-        "playedMatches": 2,
-        "goals": 1,
-        "assists": 1,
         "penalties": null
       }
     ]

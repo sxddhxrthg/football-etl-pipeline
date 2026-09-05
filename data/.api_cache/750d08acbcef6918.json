@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-09-05T07:58:14.685713+00:00",
-  "elapsed": 0.68963,
+  "created_at": "2026-09-05T11:41:15.104798+00:00",
+  "elapsed": 1.022457,
   "encoding": "UTF-8",
-  "expires": "2026-09-05T08:58:14.685681+00:00",
+  "expires": "2026-09-05T12:41:15.104763+00:00",
   "headers": {
     "Access-Control-Allow-Methods": "GET",
     "Access-Control-Allow-Origin": "http://localhost",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "en-US",
     "Content-Type": "application/json;charset=UTF-8",
-    "Date": "Sat, 05 Sep 2026 07:58:14 GMT",
+    "Date": "Sat, 05 Sep 2026 11:41:15 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
     "X-API-Version": "v4",
@@ -161,6 +161,25 @@
           {
             "position": 6,
             "team": {
+              "id": 67,
+              "name": "Newcastle United FC",
+              "shortName": "Newcastle",
+              "tla": "NEW",
+              "crest": "https://crests.football-data.org/67.png"
+            },
+            "playedGames": 3,
+            "form": null,
+            "won": 1,
+            "draw": 2,
+            "lost": 0,
+            "points": 5,
+            "goalsFor": 4,
+            "goalsAgainst": 2,
+            "goalDifference": 2
+          },
+          {
+            "position": 7,
+            "team": {
               "id": 402,
               "name": "Brentford FC",
               "shortName": "Brentford",
@@ -176,25 +195,6 @@
             "goalsFor": 4,
             "goalsAgainst": 1,
             "goalDifference": 3
-          },
-          {
-            "position": 7,
-            "team": {
-              "id": 67,
-              "name": "Newcastle United FC",
-              "shortName": "Newcastle",
-              "tla": "NEW",
-              "crest": "https://crests.football-data.org/67.png"
-            },
-            "playedGames": 2,
-            "form": null,
-            "won": 1,
-            "draw": 1,
-            "lost": 0,
-            "points": 4,
-            "goalsFor": 4,
-            "goalsAgainst": 2,
-            "goalDifference": 2
           },
           {
             "position": 8,
@@ -319,18 +319,18 @@
               "tla": "BOU",
               "crest": "https://crests.football-data.org/bournemouth.png"
             },
-            "playedGames": 2,
+            "playedGames": 3,
             "form": null,
             "won": 0,
-            "draw": 1,
+            "draw": 2,
             "lost": 1,
-            "points": 1,
+            "points": 2,
             "goalsFor": 2,
             "goalsAgainst": 3,
             "goalDifference": -1
           },
           {
-            "position": 14,
+            "position": 15,
             "team": {
               "id": 351,
               "name": "Nottingham Forest FC",
